@@ -1,0 +1,5 @@
+PyYAML>=6,<7
+
+# PyTorch is intentionally not included here. Add/install an appropriate
+# GPU-capable framework in the GPU mission only when the selected environment
+# supports it, and record that environment separately.
