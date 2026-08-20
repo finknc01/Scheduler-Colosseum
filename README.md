@@ -2,6 +2,17 @@
 
 > **Three schedulers enter the arena. One AI workload exposes what each of them is actually good at.**
 
+## Project status
+
+| Field | Current state |
+|---|---|
+| **Status** | **Planned — scheduled across the container/Kubernetes/Slurm blocks** |
+| **Current stage** | Campaign authored; no tournament round or platform comparison is claimed complete |
+| **Lab environment** | Laptop-scale Docker/Kubernetes/Slurm labs; one physical GPU where practical; multi-node/multi-GPU behavior clearly modeled when necessary |
+| **Evidence rule** | Comparisons require the same workload and explicit measurement/observation; opinions are not evidence |
+| **Last plan sync** | 2026-08-19 |
+| **License** | No open-source license is granted unless an explicit license is added later |
+
 ## Skills you will build
 
 - Linux process and container fundamentals
