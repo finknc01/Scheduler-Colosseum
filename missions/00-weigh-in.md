@@ -19,4 +19,4 @@ Kill the process once and observe what does—and does not—restart automatical
 - manual recovery notes
 
 ## Victory condition
-You know exactly what the schedulers will be asked to run and have a neutral baseline to compare against.
+You know exactly what each execution platform will be asked to run and have a neutral baseline to compare against.
