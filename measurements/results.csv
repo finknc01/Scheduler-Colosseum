@@ -1,0 +1,1 @@
+run_id,contestant,workload_version,start_time,end_time,wall_seconds,cpu_seconds,gpu_used,gpu_seconds,requested_cpu,requested_memory,requested_gpu,node_or_host,scheduler_or_runtime,outcome,retries,notes
