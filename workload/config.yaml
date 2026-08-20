@@ -1,0 +1,14 @@
+workload_version: 1
+
+cpu:
+  iterations: 10000
+  payload_kb: 32
+
+gpu:
+  enabled_if_available: true
+  matrix_size: 1024
+  iterations: 10
+
+# Keep these values unchanged when comparing bare process, Docker,
+# Kubernetes, and Slurm unless a mission explicitly asks for a controlled
+# parameter change. Record any change in the measurement sheet.
